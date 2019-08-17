@@ -1,0 +1,31 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter10_CaseClasses\CaseClassPattrens.scala:19:51: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    val vects = Array.fill(100)(Vect3D(math.random(),math.random(),math.random()))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter10_CaseClasses\CaseClassPattrens.scala:19:65: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    val vects = Array.fill(100)(Vect3D(math.random(),math.random(),math.random()))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter10_CaseClasses\CaseClassPattrens.scala:19:79: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    val vects = Array.fill(100)(Vect3D(math.random(),math.random(),math.random()))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter7_BasicsOfArraysAndLists\PassByName.scala:9:36: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    println(buildList(5,math.random()))[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter7_BasicsOfArraysAndLists\PassByName.scala:15:43: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    println(buildListF(5,() => math.random()))[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter7_BasicsOfArraysAndLists\PassByName.scala:21:37: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    println(buildListN(5,math.random()))[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter7_BasicsOfArraysAndLists\PassByName.scala:30:43: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    println(buildListN(5,{i+=1;math.random()}))[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter8_Loops\ForLoops.scala:7:41: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    val nums = Array.fill(6)(math.random())[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter8_Loops\ForLoops.scala:16:44: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    val pnts = Array.fill(100)((math.random(),math.random()))[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Anil_Kanaparthi\IdeaProjects\SparkPractice\src\main\scala\ScalaPractice\Chapter8_Loops\ForLoops.scala:16:58: Double does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    val pnts = Array.fill(100)((math.random(),math.random()))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m10 errors found[0m
